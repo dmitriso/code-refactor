@@ -6,6 +6,6 @@
 
 ## Deployable Link and Repository Url 
 
-Deployed Link:
+Deployed Link: https://dmitriso.github.io/code-refactor/ 
 Repository Link: https://github.com/dmitriso/code-refactor
 
